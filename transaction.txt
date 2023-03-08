@@ -1,0 +1,6 @@
+Withdrew 30.0			Balance 70.0
+Deposited 500.0			Balance 570.0
+Withdrew 30.0			Balance 70.0
+Deposited 100.0			Balance 170.0
+Deposited 3000.0			Balance 3170.0
+Withdrew 500.0			Balance -400.0
